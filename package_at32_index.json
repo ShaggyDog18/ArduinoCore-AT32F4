@@ -41,23 +41,22 @@
       "tools": [
         {
           "name": "xpack-arm-none-eabi-gcc",
-          "version": "11.2.1-1.2",
+          "version": "14.2.1-1.1",
           "systems": [
             {
               "host": "i686-mingw32",
-              "url": "https://github.com/xpack-dev-tools/arm-none-eabi-gcc-xpack/releases/download/v11.2.1-1.2/xpack-arm-none-eabi-gcc-11.2.1-1.2-win32-x64.zip",
-              "archiveFileName": "xpack-arm-none-eabi-gcc-11.2.1-1.2-win32-x64.zip",
-              "checksum": "SHA-256:4a45e1df1c621f0a97a2bcb63977a3745ffcff7afc0e31ad2f3d5cc1272acf4b",
-              "size": "247612940"
+              "url": "https://github.com/xpack-dev-tools/arm-none-eabi-gcc-xpack/releases/download/v14.2.1-1.1/xpack-arm-none-eabi-gcc-14.2.1-1.1-win32-x64.zip",
+              "archiveFileName": "xpack-arm-none-eabi-gcc-14.2.1-1.1-win32-x64.zip",
+              "checksum": "SHA-256:7f01540a9762141c28c89c89426217c060205f745778810c97623192021665a3",
+              "size": "260902890"
             },
             {
               "host": "x86_64-pc-linux-gnu",
-              "url": "https://github.com/xpack-dev-tools/arm-none-eabi-gcc-xpack/releases/download/v11.2.1-1.2/xpack-arm-none-eabi-gcc-11.2.1-1.2-linux-x64.tar.gz",
-              "archiveFileName": "xpack-arm-none-eabi-gcc-11.2.1-1.2-linux-x64.tar.gz",
-              "checksum": "SHA-256:7479becc1ea98fbceecadf1f036ddaba8dc39c9cce5cb45f0a7a36e923d33c9a",
-              "size": "235243515"
+              "url": "https://github.com/xpack-dev-tools/arm-none-eabi-gcc-xpack/releases/download/v14.2.1-1.1/xpack-arm-none-eabi-gcc-14.2.1-1.1-linux-x64.tar.gz",
+              "archiveFileName": "xpack-arm-none-eabi-gcc-14.2.1-1.1-linux-x64.tar.gz",
+              "checksum": "SHA-256:ed8c7d207a85d00da22b90cf80ab3b0b2c7600509afadf6b7149644e9d4790a6",
+              "size": "248765432"
             }
-
           ]
         },
         {
